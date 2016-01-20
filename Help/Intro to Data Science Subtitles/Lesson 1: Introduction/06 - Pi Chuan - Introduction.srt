@@ -1,0 +1,31 @@
+1
+00:00:00,486 --> 00:00:01,672
+>> My name is Pi-Chaun Chang.
+
+2
+00:00:01,672 --> 00:00:02,334
+>> Mm-hm.
+
+3
+00:00:02,334 --> 00:00:06,272
+>> My background, so I've been doing Computer Science ever since college.
+
+4
+00:00:06,272 --> 00:00:06,851
+>> Mm-hm.
+
+5
+00:00:06,851 --> 00:00:09,438
+>> and, you know, I did a PhD CS PhD at Stanford.
+
+6
+00:00:09,438 --> 00:00:09,752
+>> Mm-hm.
+
+7
+00:00:09,752 --> 00:00:11,402
+>> And I worked at Google for four
+
+8
+00:00:11,402 --> 00:00:14,360
+years and now I'm in a start-up called AltSchool.

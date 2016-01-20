@@ -1,0 +1,23 @@
+0:00:00.550,0:00:02.940
+Why don't you try your hand at using the numpy.dot function?
+
+0:00:04.450,0:00:07.890
+Imagine a scoring system in which each country is awarded four points for
+
+0:00:07.890,0:00:11.700
+each gold medal, two points for each silver medal, and one point for
+
+0:00:11.700,0:00:12.438
+each bronze medal.
+
+0:00:12.438,0:00:17.970
+Using the numpy.dot function, create a new dataframe called olympic_points_df
+
+0:00:17.970,0:00:22.150
+that includes a column called country_name with the country name and points with
+
+0:00:22.150,0:00:26.030
+the total number of points that that country earned at the Sochi olympics.
+
+0:00:26.030,0:00:27.030
+Your code should go here.

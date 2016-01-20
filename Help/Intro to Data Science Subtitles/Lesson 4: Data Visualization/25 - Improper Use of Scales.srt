@@ -1,0 +1,26 @@
+0:00:00.190,0:00:02.860
+Alright, so we've talked about how proper scales
+
+0:00:02.860,0:00:06.000
+can help present data more effectively, but why don't
+
+0:00:06.000,0:00:07.840
+we look at an example where scales are not
+
+0:00:07.840,0:00:11.810
+used well? When used incorrectly, scales can misguide or
+
+0:00:11.810,0:00:15.260
+confuse readers. This visualization from New South Wales shows
+
+0:00:15.260,0:00:19.070
+that the NSW health system is recruiting more nurses.
+
+0:00:19.070,0:00:20.880
+But, I can tell you it's not a good
+
+0:00:20.880,0:00:25.250
+visualization. Can you tell why? Enter your answer in
+
+0:00:25.250,0:00:26.150
+the text box below.

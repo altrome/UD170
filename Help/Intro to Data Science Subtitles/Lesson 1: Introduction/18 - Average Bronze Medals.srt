@@ -1,0 +1,32 @@
+0:00:00.980,0:00:02.605
+All right, why don't we walk through the solution?
+
+0:00:02.605,0:00:07.190
+Here we've created the olympic_medal_counts_df data frame as we
+
+0:00:07.190,0:00:08.420
+did in the previous exercise.
+
+0:00:09.790,0:00:13.084
+Now we're going to define this variable called bronze_at_least_one_gold.
+
+0:00:14.280,0:00:16.920
+What we're doing here is we're picking out the bronze column of
+
+0:00:16.920,0:00:18.941
+the olympics_medal_counts_df data frame.
+
+0:00:20.240,0:00:23.170
+Then we're picking out only the subset of that column.
+
+0:00:23.170,0:00:27.370
+With the indices matching the indices where olympic_metal_counts_df's gold
+
+0:00:27.370,0:00:30.830
+column is greater than or equal to one.
+
+0:00:30.830,0:00:35.600
+Then, we're using numpy.mean to take the average of
+
+0:00:35.600,0:00:41.774
+those values in assigning them to this variable, avg_bronze_at_least_one_gold.

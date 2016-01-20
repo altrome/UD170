@@ -1,0 +1,56 @@
+0:00:00.550,0:00:02.840
+Let's first discuss what would seem to be the
+
+0:00:02.840,0:00:05.310
+easiest way to impute a missing value in our data
+
+0:00:05.310,0:00:08.180
+set. Just take the mean of our other data
+
+0:00:08.180,0:00:12.960
+points and fill in the missing values. So, for example,
+
+0:00:12.960,0:00:15.720
+let's say that Ichiro Suzuki and Babe Ruth are
+
+0:00:15.720,0:00:19.760
+missing values for weight in our baseball data set. Well,
+
+0:00:19.760,0:00:22.670
+okay, no problem. We can just take the mean
+
+0:00:22.670,0:00:25.686
+of all other players weights and assign that value to
+
+0:00:25.686,0:00:28.170
+Ichiro and Babe Ruth. In this case, we
+
+0:00:28.170,0:00:30.610
+would assign Ichiro and Babe Ruth both a weight
+
+0:00:30.610,0:00:35.420
+of 191.67. Wow, that seems really easy, right?
+
+0:00:35.420,0:00:38.600
+There's gotta be a catch. Well, let's first discuss
+
+0:00:38.600,0:00:41.380
+what's good about this method. We don't change
+
+0:00:41.380,0:00:43.940
+the mean of the height across our sample, That's
+
+0:00:43.940,0:00:46.360
+good. But let's say we were hoping to
+
+0:00:46.360,0:00:50.590
+study the relationship between weight and birth year. Or
+
+0:00:50.590,0:00:53.440
+height and weight. Just plugging the mean height into a bunch of our
+
+0:00:53.440,0:00:56.040
+data points lessens the correlation between
+
+0:00:56.040,0:00:58.780
+our imputed variable and any other variable.

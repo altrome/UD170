@@ -1,0 +1,29 @@
+0:00:00.550,0:00:04.840
+My name is Don Dini. I'm a principle data scientist here at the AT&T big
+
+0:00:04.840,0:00:08.130
+data group. My background is in computer
+
+0:00:08.130,0:00:12.170
+science in artificial intelligence specifically multi agent systems.
+
+0:00:12.170,0:00:17.190
+Before that, I did physics but then I got, I got struck over the head
+
+0:00:17.190,0:00:19.390
+with the magic of computer science. And I
+
+0:00:19.390,0:00:22.020
+moved into there, and into our visual intelligence.
+
+0:00:24.210,0:00:30.220
+And then I taught for a while at USC, and then
+
+0:00:30.220,0:00:35.900
+moving up here to the Bay area and worked for a couple of start ups. Doing a lot
+
+0:00:35.900,0:00:41.700
+of work on real time system for collecting data
+
+0:00:41.700,0:00:46.950
+and doing real time analysis on them. And and now I am here.

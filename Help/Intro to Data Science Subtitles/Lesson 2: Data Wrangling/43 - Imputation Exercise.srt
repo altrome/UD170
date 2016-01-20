@@ -1,0 +1,29 @@
+0:00:00.730,0:00:02.800
+Alright, why don't you try to impute some
+
+0:00:02.800,0:00:06.030
+values on your own. Pandas dataframes have a
+
+0:00:06.030,0:00:11.660
+method called fillna. Which take in a value and allow you to pass in a static
+
+0:00:11.660,0:00:17.130
+value to replace any NAs that exist in a dataframe or series. You can call this
+
+0:00:17.130,0:00:21.648
+function like so. Data frame column, fillna value.
+
+0:00:21.648,0:00:25.810
+Using the numpy.mean function, which calculates the mean of
+
+0:00:25.810,0:00:28.050
+an numpy array, why don't you impute any
+
+0:00:28.050,0:00:30.400
+missing values in our Lahman baseball data sets
+
+0:00:30.400,0:00:33.000
+weight column, by setting the missing values equal
+
+0:00:33.000,0:00:35.650
+to the average weight. Your code should go here.

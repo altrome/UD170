@@ -1,0 +1,75 @@
+1
+00:00:00,400 --> 00:00:03,450
+Alright, so say that we've determined the coefficients for a linear
+
+2
+00:00:03,450 --> 00:00:06,740
+model for our data using gradient descent, or even some other
+
+3
+00:00:06,740 --> 00:00:09,760
+method. Just because we're able to come up with some model
+
+4
+00:00:09,760 --> 00:00:12,825
+doesn't mean that it's a good one. The data could be distinctly
+
+5
+00:00:12,825 --> 00:00:16,030
+non-linear. Or, maybe the attributes that we've trained our model on
+
+6
+00:00:16,030 --> 00:00:19,630
+have little to no bearing on our output variable. We need
+
+7
+00:00:19,630 --> 00:00:22,750
+some way to evaluate the effectiveness of our model. One way
+
+8
+00:00:22,750 --> 00:00:26,190
+we can measure this is a quantity called the coefficient of determination,
+
+9
+00:00:26,190 --> 00:00:28,630
+also referred to as R squared. If we have
+
+10
+00:00:28,630 --> 00:00:31,590
+a bunch of values, yi through yn. A bunch
+
+11
+00:00:31,590 --> 00:00:35,550
+of predictions, fi through fn and an average value
+
+12
+00:00:35,550 --> 00:00:38,300
+for our data, y bar. We can define the
+
+13
+00:00:38,300 --> 00:00:41,475
+coefficient of determination as R squared is equal to
+
+14
+00:00:41,475 --> 00:00:44,809
+1 minus the sum over n of yi minus
+
+15
+00:00:44,809 --> 00:00:47,840
+fi squared, over the sum over n of yi
+
+16
+00:00:47,840 --> 00:00:51,300
+minus y bar squared. The closer R squared is to
+
+17
+00:00:51,300 --> 00:00:55,380
+one, the better our model. And the closer it is to zero, the poorer our model.
+
+18
+00:00:55,380 --> 00:00:57,480
+The coefficient of determination gives us a pretty
+
+19
+00:00:57,480 --> 00:00:59,550
+effective way to evaluate how good our model is.

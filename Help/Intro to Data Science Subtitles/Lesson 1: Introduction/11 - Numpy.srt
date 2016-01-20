@@ -1,0 +1,59 @@
+0:00:00.470,0:00:01.898
+First, why don't we talk about NumPy.
+
+0:00:01.898,0:00:04.340
+NumPy has built-in functions for
+
+0:00:04.340,0:00:07.720
+a lot of basic tasks you'll perform while doing statistical analysis.
+
+0:00:08.890,0:00:12.140
+So examples might include calculating the mean, median, or
+
+0:00:12.140,0:00:13.990
+standard deviation of an array.
+
+0:00:15.330,0:00:19.070
+For example, let's say I had an array of all of the integers ranging from one to
+
+0:00:19.070,0:00:20.159
+five, called numbers.
+
+0:00:21.270,0:00:24.410
+Technically, NumPy arrays are different from Python lists, but
+
+0:00:24.410,0:00:27.590
+performing these operations on a Python list like this will cast it
+
+0:00:27.590,0:00:29.180
+as a NumPy array behind the scenes.
+
+0:00:29.180,0:00:30.420
+So let's not worry about it too much.
+
+0:00:31.940,0:00:34.791
+If I wanted to find the average of this array of numbers,
+
+0:00:34.791,0:00:37.230
+I could simply type numpy.mean(numbers).
+
+0:00:42.452,0:00:44.800
+We see that it returns that the mean is 3.
+
+0:00:44.800,0:00:46.890
+As we know is the case.
+
+0:00:46.890,0:00:50.787
+Similarly, if I want to find the median, I can call numpy.median(numbers).
+
+0:00:56.995,0:00:59.567
+Finally, if I wish to know the standard deviation,
+
+0:00:59.567,0:01:01.619
+I can just call numpy.std(numbers).
+
+0:01:04.638,0:01:07.824
+These are just a few of the functions that make it easier to analyze data when
+
+0:01:07.824,0:01:08.440
+using NumPy.

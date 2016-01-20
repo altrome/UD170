@@ -1,0 +1,15 @@
+1
+00:00:00,380 --> 00:00:03,500
+All right, the most accurate visual encoding of
+
+2
+00:00:03,500 --> 00:00:08,070
+these four is position. After that is angle. Area
+
+3
+00:00:08,070 --> 00:00:11,040
+is the next most accurate. And finally, saturation
+
+4
+00:00:11,040 --> 00:00:13,800
+is the least accurate of these four visual encodings.

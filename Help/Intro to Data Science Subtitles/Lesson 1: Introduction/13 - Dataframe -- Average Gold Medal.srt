@@ -1,0 +1,32 @@
+0:00:00.300,0:00:03.580
+Throughout this rest of this lesson, you'll learn to interact with pandas and
+
+0:00:03.580,0:00:07.210
+numpy using this medal count data from the 2014 Sochi Winter Olympics.
+
+0:00:08.550,0:00:12.850
+We have the 26 countries who medal at least once, and how many gold,
+
+0:00:12.850,0:00:16.340
+silver, bronze, and total medals they earned during the Sochi Olympics.
+
+0:00:17.460,0:00:21.940
+Create a pandas dataframe called Olympics_medal_counts_df containing the data
+
+0:00:21.940,0:00:24.810
+from the table of 2014 Sochi winter Olympics medal counts.
+
+0:00:25.910,0:00:26.510
+The columns for
+
+0:00:26.510,0:00:31.090
+this dataframe should be called country name, gold, silver and bronze.
+
+0:00:31.090,0:00:34.300
+There is no need to specify row indices for this dataframe.
+
+0:00:34.300,0:00:38.080
+In this case, the rows will automatically be assigned numbered indexes.
+
+0:00:38.080,0:00:39.050
+Your code should go here

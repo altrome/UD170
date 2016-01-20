@@ -1,0 +1,8 @@
+0:00:00.710,0:00:03.910
+If we have age, weight, height and batting average, and
+
+0:00:03.910,0:00:07.990
+are trying to predict batting average, what are the input variables?
+
+0:00:07.990,0:00:08.943
+Check all that apply.

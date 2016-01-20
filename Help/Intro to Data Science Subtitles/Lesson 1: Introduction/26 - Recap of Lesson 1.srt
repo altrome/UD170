@@ -1,0 +1,65 @@
+0:00:00.350,0:00:03.290
+To recap today's lesson, data science is a discipline
+
+0:00:03.290,0:00:06.390
+that incorporates methods and expertise from a variety of different
+
+0:00:06.390,0:00:10.160
+fields, to glean insights from large data sets, and then
+
+0:00:10.160,0:00:13.170
+use those insights to build data driven products, or to
+
+0:00:13.170,0:00:16.590
+create action items. There's no cookie cutter way to become
+
+0:00:16.590,0:00:19.220
+a data scientist, but a lot of data scientists have
+
+0:00:19.220,0:00:23.010
+a very strong background in mathematics and statistics, and also
+
+0:00:23.010,0:00:25.580
+have the programming skills to handle these data sets and
+
+0:00:25.580,0:00:29.980
+also to perform analysis. Currently, data science is most closely
+
+0:00:29.980,0:00:32.560
+associated with the tech field, but more and more data
+
+0:00:32.560,0:00:34.660
+science is being used all over the world in a
+
+0:00:34.660,0:00:37.570
+variety of different fields. In order to solve new and
+
+0:00:37.570,0:00:41.920
+old problems, more efficiently and effectively. Now I know what
+
+0:00:41.920,0:00:45.190
+you're thinking. This sounds awesome, data science sounds really cool,
+
+0:00:45.190,0:00:46.680
+I want to work on a project get me some
+
+0:00:46.680,0:00:51.470
+data. Unfortunately, data seldom comes in formats that we want.
+
+0:00:51.470,0:00:54.150
+It might be in a format we've never seen, it might come from a
+
+0:00:54.150,0:00:56.220
+weird source. There might be missing or
+
+0:00:56.220,0:00:59.520
+erroneous values. Because of this, any data
+
+0:00:59.520,0:01:01.350
+scientist worth their salt is skilled at
+
+0:01:01.350,0:01:03.750
+acquiring data. And then massaging it into
+
+0:01:03.750,0:01:07.340
+a workable format. That's what we're going to be covering in the next lesson.

@@ -1,0 +1,92 @@
+0:00:00.670,0:00:05.000
+Let's illustrate how Panda's describe function works,
+
+0:00:05.000,0:00:08.060
+using our Laman baseball data set. Say
+
+0:00:08.060,0:00:10.090
+that our baseball data was loaded into
+
+0:00:10.090,0:00:13.378
+a Panda's data frame called baseball, using Panda's
+
+0:00:13.378,0:00:17.510
+read.csb function. Like so. If we call
+
+0:00:17.510,0:00:20.850
+baseball that describe, what do we get back?
+
+0:00:20.850,0:00:25.580
+You can see that baseball that describe returns a data frame in it of itself.
+
+0:00:25.580,0:00:31.432
+For every numerical column, we see the count, mean, standard deviation, mean,
+
+0:00:31.432,0:00:36.739
+25%, 50%, 75% and maximum
+
+0:00:36.739,0:00:41.300
+values. We can do some quick checking to make sure there are data generally
+
+0:00:41.300,0:00:45.650
+make sense. Here. LahmanID has actually been read in as a number, which is a bit
+
+0:00:45.650,0:00:47.790
+misleading. We won't be doing any arithmetic on
+
+0:00:47.790,0:00:50.770
+it. But we see that the minimum birth
+
+0:00:50.770,0:00:53.300
+month is one, and the maximum birth month is 12,
+
+0:00:53.300,0:00:57.330
+as we would expect. We see that the minimum birth date
+
+0:00:57.330,0:01:00.140
+is one, and the maximum birth date is 31. That
+
+0:01:00.140,0:01:04.129
+makes sense. And we see that the mean birth year is
+
+0:01:04.129,0:01:07.410
+actually 1928, which to me is surprising. I'd think that
+
+0:01:07.410,0:01:10.420
+it would be a little bit later. Investigating values like this,
+
+0:01:10.420,0:01:12.620
+we can tell pretty quickly what our data looks like,
+
+0:01:12.620,0:01:15.990
+and whether there might be any significant outliers in our data.
+
+0:01:15.990,0:01:18.140
+In other words, are the min or max way
+
+0:01:18.140,0:01:21.420
+larger than the values corresponding with the 25th or 75th
+
+0:01:21.420,0:01:25.200
+percentile. Although we won't discuss exploratory analysis of data
+
+0:01:25.200,0:01:27.900
+in depth, there's one thing that you might notice when
+
+0:01:27.900,0:01:30.120
+looking at a summary of your data. It may
+
+0:01:30.120,0:01:33.740
+have a bunch of missing values. This is evidenced here
+
+0:01:33.740,0:01:37.200
+by the differences in count for our various columns. Since
+
+0:01:37.200,0:01:41.140
+this is a particularly common problem. Let's discuss why values
+
+0:01:41.140,0:01:43.940
+may be missing. And different methods we can use to
+
+0:01:43.940,0:01:47.510
+mitigate the effect of those missing values on our analysis.

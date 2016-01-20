@@ -1,0 +1,47 @@
+0:00:00.380,0:00:03.450
+So, to mitigate the shortcomings of a scatter plot, we can
+
+0:00:03.450,0:00:05.950
+plot the same data as a line chart, and connect the
+
+0:00:05.950,0:00:09.750
+dots with lines, as we see in this image. Putting lines
+
+0:00:09.750,0:00:13.240
+here really emphasizes trends. So, as we can see, there was
+
+0:00:13.240,0:00:16.810
+a pretty bad series of Red Sox teams in the 90s.
+
+0:00:16.810,0:00:18.860
+And that the Red Sox teams have been doing pretty well
+
+0:00:18.860,0:00:22.090
+in the 2000s. It's a little bit harder to see this
+
+0:00:22.090,0:00:25.860
+when we just have the points without the lines. That being said,
+
+0:00:25.860,0:00:27.850
+having lines that connect each point really puts
+
+0:00:27.850,0:00:30.550
+a focus on year to year variability. We
+
+0:00:30.550,0:00:32.980
+can see, for example that from 1964 to
+
+0:00:32.980,0:00:36.940
+1965, there's a huge drop. But it's a little
+
+0:00:36.940,0:00:38.840
+bit harder to have a good sense of
+
+0:00:38.840,0:00:41.970
+the more global trends. Are the teams getting better
+
+0:00:41.970,0:00:44.560
+or worse on average? For this reason, we
+
+0:00:44.560,0:00:47.100
+might introduce a lowest curve instead of these lines.

@@ -1,0 +1,39 @@
+1
+00:00:00,540 --> 00:00:02,330
+All right. Why don't we try computing these
+
+2
+00:00:02,330 --> 00:00:06,280
+two quantities, t and nu, given some example batting
+
+3
+00:00:06,280 --> 00:00:08,640
+average data. So, let's say that I had
+
+4
+00:00:08,640 --> 00:00:13,210
+two samples. One with 150 data points, a mean
+
+5
+00:00:13,210 --> 00:00:16,325
+batting average of 0.299, and a variance of
+
+6
+00:00:16,325 --> 00:00:19,616
+0.05. The other has 165 data points, and mean
+
+7
+00:00:19,616 --> 00:00:23,830
+of 0.307, and a variance of 0.08. What are
+
+8
+00:00:23,830 --> 00:00:26,530
+the values of t and nu given this data?
+
+9
+00:00:26,530 --> 00:00:27,840
+Fill in your answers in these boxes
+
+10
+00:00:27,840 --> 00:00:29,970
+below, and round them to three decimal places.

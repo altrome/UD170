@@ -1,0 +1,17 @@
+0:00:00.560,0:00:02.760
+All right, why don't we walk through the solution?
+
+0:00:02.760,0:00:05.880
+Here we define our olympic_medal_counts_df data frame as we have in
+
+0:00:05.880,0:00:07.150
+the past couple of exercises.
+
+0:00:08.330,0:00:13.160
+Then we simply say avg_medal_count is equal to olympic_medal_counts_df and
+
+0:00:13.160,0:00:16.880
+we pick out only the gold, silver and bronze columns and
+
+0:00:16.880,0:00:23.239
+then we use the data frames apply method and provide us the argument numpy.mean

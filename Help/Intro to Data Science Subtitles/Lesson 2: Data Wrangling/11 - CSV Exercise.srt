@@ -1,0 +1,47 @@
+0:00:00.380,0:00:02.110
+Alright, we've shown you how to load some data
+
+0:00:02.110,0:00:05.230
+into pandas from a CSV file. Now, let's see if
+
+0:00:05.230,0:00:07.930
+you can load a csv into python and manipulate the
+
+0:00:07.930,0:00:11.220
+data in a basic way. What we've provided here is
+
+0:00:11.220,0:00:13.720
+the skeleton of a function called add full name, which
+
+0:00:13.720,0:00:19.760
+takes in two arguments, path_to_csv and path_to_new_csv. Assume you'll be
+
+0:00:19.760,0:00:22.030
+reading in a CSV file with the same columns as
+
+0:00:22.030,0:00:25.590
+the Lahman baseball data set. Most importantly, there are columns
+
+0:00:25.590,0:00:29.460
+called, nameFirst and nameLast. Write a function that
+
+0:00:29.460,0:00:32.470
+reads the CSV located at path_to_csv into a
+
+0:00:32.470,0:00:35.130
+pandas dataframe, and then adds a new column
+
+0:00:35.130,0:00:39.470
+called nameFull, with that player's full name. For example,
+
+0:00:39.470,0:00:41.940
+in the row corresponding to Hank Aaron, nameFull
+
+0:00:41.940,0:00:45.070
+would be Hank Aaron. After that, write the
+
+0:00:45.070,0:00:46.970
+data in the Pandas dataFrame to a new
+
+0:00:46.970,0:00:51.090
+CSV, located at path_to_new_csv. Your code should go here.

@@ -1,0 +1,92 @@
+0:00:00.630,0:00:03.310
+Now that we know a little bit about manipulating data,
+
+0:00:03.310,0:00:06.480
+why don't we talk about how we'll store and reference it using Pandas.
+
+0:00:07.490,0:00:11.510
+Data in Pandas is often contained in a structure called a data frame.
+
+0:00:11.510,0:00:15.730
+A data frame is a two dimensional labeled data structure with columns which can
+
+0:00:15.730,0:00:17.700
+be different types if necessary.
+
+0:00:17.700,0:00:25.121
+For example, types like string, int, float, or Boolean.
+
+0:00:26.240,0:00:29.690
+You can think of a data frame as being similar to an Excel spreadsheet.
+
+0:00:29.690,0:00:32.360
+We'll talk about making data frames in a second.
+
+0:00:32.360,0:00:35.410
+For now, here's what an example data frame might look like,
+
+0:00:35.410,0:00:38.790
+using data describing passengers on the Titanic and whether or
+
+0:00:38.790,0:00:41.430
+not they survived the Titanic's tragic collision with an iceberg.
+
+0:00:42.510,0:00:45.220
+You'll be using this very data set for project number one.
+
+0:00:45.220,0:00:47.580
+Note that there are numerous different columns.
+
+0:00:47.580,0:00:51.290
+Name, age, fare, and survived.
+
+0:00:51.290,0:00:54.050
+And that these columns all have different data types.
+
+0:00:54.050,0:00:55.030
+Age is all integers.
+
+0:00:55.030,0:00:56.830
+Survived is all Boolean, et cetera.
+
+0:00:58.170,0:01:00.530
+There are also some not a number entries.
+
+0:01:00.530,0:01:03.470
+This is what happens when we don't specify a value.
+
+0:01:03.470,0:01:05.630
+How would we go about making this data frame.
+
+0:01:05.630,0:01:09.900
+First, I'll create a Python dictionary called d where each key is the name of
+
+0:01:09.900,0:01:14.140
+one of my columns and the corresponding value is a Python series where I
+
+0:01:14.140,0:01:17.900
+first pass in an array with the values for the actual data frame and
+
+0:01:17.900,0:01:20.260
+then an array of indexes where I want those values to go.
+
+0:01:22.410,0:01:26.570
+And notice that in the case of fare where there is a not a number value, I only
+
+0:01:26.570,0:01:31.360
+provide three actual values, but then I provide the three corresponding indices.
+
+0:01:31.360,0:01:34.110
+Once I've created this dictionary, I can pass it as an argument to
+
+0:01:34.110,0:01:37.120
+the DataFrame function to create my actual data frame.
+
+0:01:37.120,0:01:38.240
+Here I'll call that data frame df.
+
+0:01:38.240,0:01:42.180
+You'll see that the data frame we've printed here matches the one that we had on
+
+0:01:42.180,0:01:43.510
+the tablet earlier in this lesson.

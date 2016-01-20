@@ -1,0 +1,44 @@
+0:00:00.370,0:00:02.530
+Hello, my name is Nick Gustafson, and
+
+0:00:02.530,0:00:06.430
+I'm a data scientist at Udacity. My background
+
+0:00:06.430,0:00:09.180
+is I did my undergrad in neurobiology and
+
+0:00:09.180,0:00:12.430
+I went on in graduate school to continue
+
+0:00:12.430,0:00:15.280
+studying neurobiology, and neuroscience in particular, and
+
+0:00:15.280,0:00:19.240
+kind of, computational neuroscience and looking at algorithmic
+
+0:00:19.240,0:00:22.750
+And all mechanisms of learning and decision making.
+
+0:00:22.750,0:00:25.420
+And while towards that, hm, tail end of
+
+0:00:25.420,0:00:28.970
+my graduate work I, eventually kind of realized I did not want to stay
+
+0:00:28.970,0:00:31.480
+in academia, however I still have this
+
+0:00:31.480,0:00:34.060
+kind of strong passion for analyzing data,
+
+0:00:34.060,0:00:36.950
+modeling data, understanding You know, patterns within
+
+0:00:36.950,0:00:38.190
+it, and kind of, you know, applying
+
+0:00:38.190,0:00:40.790
+scientific methods, and data science just, just
+
+0:00:40.790,0:00:42.580
+felt like a natural progression from there.

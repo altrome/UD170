@@ -1,0 +1,83 @@
+0:00:00.480,0:00:02.640
+Another method that we could use to impute missing
+
+0:00:02.640,0:00:05.700
+values in a data set is to perform linear regression
+
+0:00:05.700,0:00:09.320
+to estimate the missing values. We'll cover linear regression
+
+0:00:09.320,0:00:12.080
+in more depth in the next lesson. But the general
+
+0:00:12.080,0:00:14.770
+idea is that we would create an equation that
+
+0:00:14.770,0:00:18.060
+predicts missing values in the data using information we do
+
+0:00:18.060,0:00:21.080
+have, and then use that equation to fill in our
+
+0:00:21.080,0:00:25.670
+missing values. Okay so, what are the drawbacks of using
+
+0:00:25.670,0:00:29.480
+this linear regression type technique? Well, one negative
+
+0:00:29.480,0:00:31.690
+side effect of imputing missing values in this
+
+0:00:31.690,0:00:34.600
+way is that we would over emphasize existing
+
+0:00:34.600,0:00:37.580
+trends in the data. For example, if, if
+
+0:00:37.580,0:00:39.740
+there is a relationship between date of birth
+
+0:00:39.740,0:00:42.390
+and height in MLB players, all of our
+
+0:00:42.390,0:00:47.300
+imputed values will amplify this trend. Additionally, this
+
+0:00:47.300,0:00:50.940
+model will produce exact values for the missing entries,
+
+0:00:50.940,0:00:53.690
+which would suggest a greater certainty in the missing values than
+
+0:00:53.690,0:00:57.500
+we actually have. In any case, let's say we did want
+
+0:00:57.500,0:00:59.790
+to fill in the missing values for weight in our baseball
+
+0:00:59.790,0:01:03.580
+player data. We could train a linear model using the existing
+
+0:01:03.580,0:01:06.890
+data that we have, and then use that model to fill
+
+0:01:06.890,0:01:09.842
+in these missing values. Let's say we did want to fill
+
+0:01:09.842,0:01:12.438
+in the missing values for weight in our baseball data. We
+
+0:01:12.438,0:01:15.949
+could train a linear model using our existing data. That is,
+
+0:01:15.949,0:01:19.009
+entries that have position, left or right
+
+0:01:19.009,0:01:23.599
+handed batter, average, birthdate, deathdate, height and
+
+0:01:23.599,0:01:25.779
+weight. And then use that model that
+
+0:01:25.779,0:01:28.410
+we've created to fill in these missing values.

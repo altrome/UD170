@@ -1,0 +1,23 @@
+1
+00:00:00,350 --> 00:00:05,050
+Alright, so just to recap, why are statistical significance test useful? Check
+
+2
+00:00:05,050 --> 00:00:06,980
+all that apply. They provide a
+
+3
+00:00:06,980 --> 00:00:09,810
+formalized framework for comparing, and evaluating data.
+
+4
+00:00:09,810 --> 00:00:12,320
+They can make a bad result look good. They enable us to
+
+5
+00:00:12,320 --> 00:00:14,090
+evaluate whether perceived effects in our
+
+6
+00:00:14,090 --> 00:00:16,980
+dataset, reflect differences across the entire population.

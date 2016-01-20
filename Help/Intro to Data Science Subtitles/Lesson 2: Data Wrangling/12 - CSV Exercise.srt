@@ -1,0 +1,35 @@
+1
+00:00:00,750 --> 00:00:02,642
+Alright, let's walk through the solution to this
+
+2
+00:00:02,642 --> 00:00:06,900
+assessment. First, we import the pandas module, then
+
+3
+00:00:06,900 --> 00:00:10,300
+we read in the csv located at path_to_csv,
+
+4
+00:00:10,300 --> 00:00:13,270
+using the pandas read_csv function. Then we're going to
+
+5
+00:00:13,270 --> 00:00:15,484
+create a new column in the dataframe called
+
+6
+00:00:15,484 --> 00:00:19,080
+nameFull, which is the concatenation of the nameFirst column,
+
+7
+00:00:19,080 --> 00:00:22,460
+a space, and the nameLast column. Finally, we're
+
+8
+00:00:22,460 --> 00:00:25,800
+going to use pandas to_csv function, to write the
+
+9
+00:00:25,800 --> 00:00:30,947
+new data frame to a new csv file located at path_to_new_csv.

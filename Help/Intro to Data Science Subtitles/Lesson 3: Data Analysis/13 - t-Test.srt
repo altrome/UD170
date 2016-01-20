@@ -1,0 +1,83 @@
+0:00:00.310,0:00:03.380
+Now that we've familiarize ourselves with the normal distribution,
+
+0:00:03.380,0:00:05.720
+let's discuss one of the most common parametric test
+
+0:00:05.720,0:00:07.470
+that we might use to compare two sets of
+
+0:00:07.470,0:00:10.490
+data. Such as our samples of left handed and right
+
+0:00:10.490,0:00:15.120
+handed [INAUDIBLE], that would be the t-test. The t-test
+
+0:00:15.120,0:00:18.800
+like many statistical tests aims at accepting or rejecting
+
+0:00:18.800,0:00:22.330
+a null hypothesis. A null hypothesis is generally a
+
+0:00:22.330,0:00:25.140
+statement that we're trying to disprove by running our test.
+
+0:00:26.310,0:00:28.740
+For example, that two samples came from the same
+
+0:00:28.740,0:00:32.710
+population. This might mean that left-handed and right-handed batters show
+
+0:00:32.710,0:00:35.460
+no real difference in their batting average, or that
+
+0:00:35.460,0:00:39.620
+a certain sample is drawn from a particular probability distribution.
+
+0:00:39.620,0:00:41.600
+For example, if we had a sample of 20
+
+0:00:41.600,0:00:45.010
+heights and weights of Arbitrary baseball players, we might want
+
+0:00:45.010,0:00:47.570
+to test how likely it is that those 20 people
+
+0:00:47.570,0:00:51.920
+are drawn from the known MLB player population. A hypothesis
+
+0:00:51.920,0:00:54.490
+test such as the t-test is usually specified in
+
+0:00:54.490,0:00:58.090
+terms of a test statistic. The test statistic reduces
+
+0:00:58.090,0:01:00.220
+your data set to one number that helps to
+
+0:01:00.220,0:01:04.530
+accept or reject the null hypothesis. When performing a T-test,
+
+0:01:04.530,0:01:08.270
+we compute a test statistic called T. Depending on
+
+0:01:08.270,0:01:11.070
+the value of the test statistic T, we can determine
+
+0:01:11.070,0:01:14.430
+whether or not or null hypothesis is true. In
+
+0:01:14.430,0:01:17.070
+the case of the one sample T-test, our null hypothesis
+
+0:01:17.070,0:01:20.550
+would be that the population mean, mu, is equal to our
+
+0:01:20.550,0:01:24.090
+sample mean, mu not. In the T sample case, which we'll be
+
+0:01:24.090,0:01:27.150
+more concerned about for the purposes of our example, The null
+
+0:01:27.150,0:01:31.740
+hypothesis would be about our population means, m0 and m1 are equal.

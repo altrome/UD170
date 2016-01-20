@@ -1,0 +1,53 @@
+0:00:00.300,0:00:04.040
+To illustrate concepts with relational databases, we're going to use some data
+
+0:00:04.040,0:00:08.805
+on the Aadhaar program, that is acquired from India's online Open Data Portal.
+
+0:00:08.805,0:00:11.730
+Aadhaar is a relatively, new initiative in India.
+
+0:00:11.730,0:00:13.930
+It is a 12 digit, unique number that,
+
+0:00:13.930,0:00:17.310
+enables identification for every resident of India.
+
+0:00:17.310,0:00:19.020
+According, to the Indian government.
+
+0:00:19.020,0:00:23.780
+Once instituted, the Aadhaar will provide a universal identity infrastructure,
+
+0:00:23.780,0:00:27.130
+which can be used by any identity-based application.
+
+0:00:27.130,0:00:30.710
+The dataset, we'll be using describes the number of people, who enrolled in or
+
+0:00:30.710,0:00:32.970
+were rejected by the Aadhaar program.
+
+0:00:32.970,0:00:37.620
+Cut by various characteristics, such as district, subdistrict, gender, and
+
+0:00:37.620,0:00:39.870
+age across India.
+
+0:00:39.870,0:00:43.510
+As data scientists, the Aadhaar program is interesting to us, because it is
+
+0:00:43.510,0:00:48.710
+a huge dataset, representing one of the most significant populations on Earth.
+
+0:00:48.710,0:00:51.610
+We can study the Aadhaar enrollment dataset to learn a bit more about
+
+0:00:51.610,0:00:52.900
+India's population.
+
+0:00:52.900,0:00:55.650
+And also, what type of people are applying for and
+
+0:00:55.650,0:00:57.680
+successfully enrolling in the Aadhaar program.

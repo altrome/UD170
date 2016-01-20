@@ -1,0 +1,104 @@
+0:00:00.540,0:00:02.960
+Now that we know how to create a dataframe,
+
+0:00:02.960,0:00:05.380
+why don't we talk about how we can access the data.
+
+0:00:07.010,0:00:10.700
+We can operate on specific columns by calling on them as if they were a key in
+
+0:00:10.700,0:00:11.920
+the dictionary.
+
+0:00:11.920,0:00:15.310
+For example, if we wanted just the name column of this dataframe,
+
+0:00:15.310,0:00:17.340
+I could simply type df name.
+
+0:00:17.340,0:00:20.200
+I could also grab more than one column by passing in a list of
+
+0:00:20.200,0:00:22.280
+column names as opposed to just one column name.
+
+0:00:23.350,0:00:27.130
+For example, say I wanted the name and age columns.
+
+0:00:27.130,0:00:29.680
+I could say df name, age.
+
+0:00:32.299,0:00:36.060
+I can also call on specific rows by calling the dataframe objects load
+
+0:00:36.060,0:00:39.590
+method and passing the row index as an argument.
+
+0:00:39.590,0:00:44.320
+For example, if I only wanted the row corresponding to passenger Braund,
+
+0:00:44.320,0:00:48.297
+whose index is a, I could simply say df.loc a.
+
+0:00:50.410,0:00:53.862
+We can also use true false statements regarding columns of the dataframe to
+
+0:00:53.862,0:00:55.670
+subset the dataframe.
+
+0:00:55.670,0:00:59.010
+For example let's say I wanted rows of this dataframe only
+
+0:00:59.010,0:01:02.700
+where the passenger age was greater than or equal to 30.
+
+0:01:02.700,0:01:10.436
+I could simply say, df where df age greater than or equal to 30.
+
+0:01:13.875,0:01:16.805
+You can see here that I've only picked out rows b and d,
+
+0:01:16.805,0:01:20.400
+which were the rows where our passenger is in fact older than 30.
+
+0:01:20.400,0:01:24.110
+This ability to subset our dataframe based on true false statements in
+
+0:01:24.110,0:01:27.400
+the index is not limited to the entire row.
+
+0:01:27.400,0:01:31.110
+I can also perform this operation on particular columns.
+
+0:01:31.110,0:01:34.350
+For example let's say I only wanted this survived information for
+
+0:01:34.350,0:01:35.840
+these two rows, b and d.
+
+0:01:36.840,0:01:42.368
+I can simply say, df survived df age greater than or equal to 30.
+
+0:01:42.368,0:01:43.873
+Let's pick apart what this statement is
+
+0:01:43.873,0:01:45.576
+doing since it's a little bit complicated.
+
+0:01:45.576,0:01:48.890
+First, df survived is going to
+
+0:01:48.890,0:01:52.350
+pick out only the survived column of our dataframe.
+
+0:01:52.350,0:01:53.510
+This section here says,
+
+0:01:53.510,0:01:58.080
+I basically only want the indices where df age is great than or equal to 30.
+
+0:01:58.080,0:02:03.170
+Then I say, of this array of values, give me only the values where
+
+0:02:03.170,0:02:05.960
+the indices are equal to the indices where this statement is true.

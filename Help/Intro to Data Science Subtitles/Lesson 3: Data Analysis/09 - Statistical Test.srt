@@ -1,0 +1,5 @@
+0:00:00.190,0:00:03.760
+Normal distributions generally look like this, although their width and
+
+0:00:03.760,0:00:06.470
+center can change based on a distribution's parameters

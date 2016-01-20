@@ -1,0 +1,67 @@
+1
+00:00:00,370 --> 00:00:03,630
+You may ask yourself, what is data munching? Let's work
+
+2
+00:00:03,630 --> 00:00:07,370
+through an example and demonstrate the concept to you. Imagine
+
+3
+00:00:07,370 --> 00:00:09,490
+we're trying to figure out if right handed or left
+
+4
+00:00:09,490 --> 00:00:12,450
+handed baseball players have a higher batting average and we're
+
+5
+00:00:12,450 --> 00:00:15,670
+given this table of data to answer the question. Let's
+
+6
+00:00:15,670 --> 00:00:19,260
+look at the table. Look, this value is incorrect. You
+
+7
+00:00:19,260 --> 00:00:22,610
+can't have a batting average greater than 1,000. Also, it
+
+8
+00:00:22,610 --> 00:00:25,270
+looks like we don't have any left or right-handedness for
+
+9
+00:00:25,270 --> 00:00:28,490
+Ichiro Suzuki. Data wrangling is the art of dealing
+
+10
+00:00:28,490 --> 00:00:31,850
+with and or converting missing or ill-formatted data into
+
+11
+00:00:31,850 --> 00:00:35,510
+a format that more easily lends itself to analysis.
+
+12
+00:00:35,510 --> 00:00:38,180
+But before we can do that analysis, we first
+
+13
+00:00:38,180 --> 00:00:39,750
+have to get the data that we want to
+
+14
+00:00:39,750 --> 00:00:43,652
+analyze. Three of the most common sources from which
+
+15
+00:00:43,652 --> 00:00:46,460
+can get data are from files, from a database,
+
+16
+00:00:46,460 --> 00:00:50,360
+or from websites through web APIs. We'll cover all three
+
+17
+00:00:50,360 --> 00:00:51,430
+of these in this lesson.

@@ -1,0 +1,47 @@
+1
+00:00:01,300 --> 00:00:05,652
+We can just plug the information provided into our equations for t and new. If
+
+2
+00:00:05,652 --> 00:00:10,836
+we look at the equations for t, t is 0.307 minus 0.299
+
+3
+00:00:10,836 --> 00:00:15,924
+over the square root of 0.05 over 150 plus 0.08 over
+
+4
+00:00:15,924 --> 00:00:21,470
+165. Which is going to be 0.280. Meanwhile new is going to be
+
+5
+00:00:21,470 --> 00:00:26,720
+the quantity 0.05 over 150 plus 0.08 over 165 squared. Over 0.05
+
+6
+00:00:26,720 --> 00:00:29,715
+squared over 150 squared times 149 plus
+
+7
+00:00:29,715 --> 00:00:34,210
+0.08 squared over 165 squared times 164, which
+
+8
+00:00:34,210 --> 00:00:40,310
+is going to be 307.199. The t statistic here, again is sort of some idea of,
+
+9
+00:00:40,310 --> 00:00:45,800
+you know, how extreme is our result and how likely is it to disprove our
+
+10
+00:00:45,800 --> 00:00:48,720
+null hypothesis? Meanwhile, the nu here is
+
+11
+00:00:48,720 --> 00:00:52,810
+kind of some idea of how many independent variables
+
+12
+00:00:52,810 --> 00:00:55,907
+went in to calculating this t-value?

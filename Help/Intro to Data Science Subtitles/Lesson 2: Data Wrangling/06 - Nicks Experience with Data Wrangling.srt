@@ -1,0 +1,51 @@
+1
+00:00:01,350 --> 00:00:04,800
+The did it, that also will, depend on the project
+
+2
+00:00:04,800 --> 00:00:05,736
+>> Say that one more time.
+
+3
+00:00:05,736 --> 00:00:12,550
+>> On average, over 50% of the time it's just kind of. Well, maybe be spent
+
+4
+00:00:12,550 --> 00:00:15,890
+like, combing through the data and like just,
+
+5
+00:00:15,890 --> 00:00:19,420
+figuring out maybe idiosyncrasies in it. And You know.
+
+6
+00:00:19,420 --> 00:00:21,380
+You quickly apply an algorithm, you look at
+
+7
+00:00:21,380 --> 00:00:22,750
+it. You don't get the results you expect,
+
+8
+00:00:22,750 --> 00:00:24,250
+so you dig in a little closer and
+
+9
+00:00:24,250 --> 00:00:26,350
+like see that there are these weird little kind
+
+10
+00:00:26,350 --> 00:00:28,670
+of edge cases that are, are ending up more
+
+11
+00:00:28,670 --> 00:00:30,630
+prominent in your data than you previously expected. So,
+
+12
+00:00:30,630 --> 00:00:33,090
+you have to go back and scrape and comb
+
+13
+00:00:33,090 --> 00:00:36,920
+through it again, and it's just this iterative back-and-forth process.
